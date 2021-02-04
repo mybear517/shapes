@@ -1,12 +1,12 @@
 
 public class Shape {
-    private int size;
+	private int size;
 	public Shape() {
-	     size=0;
+		size=0;
 	}
 
-	 public double calculateArea() {
-	    	return size;
-	    }
+	public double calculateArea() {
+		return size;
+	}
 
 }
